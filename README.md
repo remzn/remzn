@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Ramazan Akdamar</h1>
-<h3 align="center">A passionate computer engineer from Türkiye</h3>
+<h3 align="center">Computer Engineer from Türkiye</h3>
 
 - 📫 How to reach me **enesramazan51@gmail.com**
 
